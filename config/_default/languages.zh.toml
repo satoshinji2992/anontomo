@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "zh"
+languageName = "中文"
+weight = 1
+title = "Blowfish"
+
+[params]
+displayName = "ZH"
+isoCode = "zh"
+rtl = false
+dateFormat = "2006/12/02"
+logo = "img/logo.png"
+secondaryLogo = "img/secondary-logo.png"
+#   description = "My awesome website"
+copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+name = "satoshinji"
+email = "wwwshenqi@163.com"
+image = "img/tomori.png"
+imageQuality = 96
+headline = "I'm only human"
+bio = "A little bit about you"
+links = [
+    { email = "wwwshenqi@163.com" },
+    { github = "https://github.com/satoshinji2992" },
+    { bilibili = "https://space.bilibili.com/299834019?spm_id_from=333.1007.0.0" },
+]
